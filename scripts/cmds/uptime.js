@@ -24,7 +24,7 @@
       const uptimeString = `${days}D ${hours}H ${minutes}M`;
 
       const msg = 
-`╭─🎀 𝙔𝙊𝙐𝙍 𝘽𝙊𝙏 𝙐𝙋𝙏𝙄𝙈𝙀
+`╭─🎀 your baby 𝙐𝙋𝙏𝙄𝙈𝙀
 │
 ├🐤 𝗨𝗽𝘁𝗶𝗺𝗲: ${uptimeString}  
 ├👥 𝗧𝗼𝘁𝗮𝗹 𝗨𝘀𝗲𝗿𝘀: ${allUsers.length.toLocaleString()}  
