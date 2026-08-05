@@ -18,15 +18,15 @@
     "ignoreCommand": []
   },
 "adminBot": [
-    "100037951718438"
+    "61591412309835"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "HinataBot V3",
-  "prefix": "!",
+  "nickNameBot": "♡𝐂𝐡𝐞𝐫𝐫𝐲 𝐌𝐨𝐨𝐧 BOT",
+  "prefix": "★",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
