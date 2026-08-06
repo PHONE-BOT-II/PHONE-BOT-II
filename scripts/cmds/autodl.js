@@ -31,7 +31,7 @@ module.exports = {
                 },
                 en: {
                         defaultCaption: "Downloaded Video",
-                        error: "× Failed to download video.\n•WhatsApp: 01836298139"
+                        error: "× Failed to download video.\n•WhatsApp: 01613828497"
                 }
         },
 
@@ -80,7 +80,7 @@ module.exports = {
                              api.setMessageReaction("🐤", event.messageID, (err) => {}, true);
                                 
                                 if (!fs.existsSync(__dirname + "/cache")) fs.mkdirSync(__dirname + "/cache");
-                                const path = __dirname + "/cache/mahmud.mp4";
+                                const path = __dirname + "/cache/Protik.mp4";
 
                                 const base = await baseApiUrl();
                                 const response = await axios.get(`${base}/api/download?url=${encodeURIComponent(mahmud)}`);
